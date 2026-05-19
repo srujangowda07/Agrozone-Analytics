@@ -1,5 +1,7 @@
 # **AgroZone Analytics**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TwLeNTdcjoGDq0FU5rb7vpjHZ3yhbBBR?usp=sharing)
+
 **Unsupervised Agro-Zoning Based Crop Recommendation Using Soil, Yield, and Market Data**
 
 ---
@@ -24,7 +26,7 @@ This project is designed to run **entirely on Google Colab**.
 
 ### **Steps:**
 
-1. Open the provided Google Colab notebook.  
+1. Open the provided [Google Colab notebook](https://colab.research.google.com/drive/1TwLeNTdcjoGDq0FU5rb7vpjHZ3yhbBBR?usp=sharing).  
 2. Mount Google Drive when prompted.  
 3. Download datasets using the Kaggle API (instructions are included inside the notebook).  
 4. Run all cells **from top to bottom** in order.  
